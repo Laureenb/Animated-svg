@@ -1,1 +1,3 @@
-# Animated-svg
+# Animated-svg (projet en cours)
+
+## Apprentissage SVG
